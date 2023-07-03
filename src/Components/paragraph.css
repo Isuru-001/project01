@@ -1,0 +1,29 @@
+.paragraph-container {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    margin-bottom: 0px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(206, 226, 244);
+  }
+  
+  .paragraph {
+    margin-bottom: 20px;
+  }
+  
+  .paragraph-container {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    margin-bottom: 0px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(206, 226, 244);
+
+  }
+  
+  .paragraph {
+    margin-bottom: 20px;
+  }
+  

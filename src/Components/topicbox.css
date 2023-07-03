@@ -1,0 +1,28 @@
+.topicBox-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+  }
+  
+  .topicBox-group {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .topicBox {
+    max-width: 100%;
+    max-height: 200px;
+    margin: 10px;
+  }
+
+
+
+
+
+
+
+ 
+  
+  
